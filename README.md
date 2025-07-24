@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rohan Dobriyal</h1>
 <h3 align="center">Passionate about building scalable backend systems, secure payment gateways, and integrating AI-driven features. 🎯 Currently exploring blockchain-based fintech solutions and automation in web development.</h3>
 
-- 🌱 I’m currently learning **Web3, Blockchain Smart Contracts & AWS Services**
+-  I’m currently learning **Web3, Blockchain Smart Contracts & AWS Services**
 
-- 👨‍💻 All of my projects are available at [https://nimble-toffee-c3664b.netlify.app/](https://nimble-toffee-c3664b.netlify.app/)
+-  All of my projects are available at [https://nimble-toffee-c3664b.netlify.app/](https://nimble-toffee-c3664b.netlify.app/)
 
-- 💬 Ask me about **Backend Development (Node.js, MERN, Python, REST APIs) Secure Transactions & Payment Gateways Performance Optimization & Scalability**
+-  Ask me about **Backend Development (Node.js, MERN, Python, REST APIs) Secure Transactions & Payment Gateways Performance Optimization & Scalability**
 
-- 📫 How to reach me **rohandobriyal196@gmail.com**
+-  How to reach me **rohandobriyal196@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
